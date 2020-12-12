@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# logs
+logs
+npm-debug.log
+
+# builded application
+dist
+
+# AWS EB folder
+.elasticbeanstalk
+
+# ide workspace folder
+.vscode
+
+# git folder
+.git
